@@ -37,4 +37,5 @@ If you want a map that you created, just put it in the "maps" folder
 ```
 ______
 
-![philo_dinner](dinner_philo.png)
+![Capturar](https://user-images.githubusercontent.com/69651347/171074928-62ba1525-da17-4937-8cd9-6de82565586b.PNG)
+
