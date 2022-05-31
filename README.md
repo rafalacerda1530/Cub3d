@@ -1,6 +1,6 @@
 # # Cub3D
 
-A 3d Game
+A 3D Game
 
 # Introduction 
 
