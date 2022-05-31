@@ -19,11 +19,11 @@ N, S, E, W, are placed on the map to show where the player will start and where 
 
 Below is an example map:
 
-11111111
-1000N01
-1000001
-1000001
-11111111
+11111111<br />
+10000N01<br />
+10000001<br />
+10000001<br />
+11111111<br />
 ______
 # How use
 
